@@ -1,0 +1,851 @@
+Order_ID,Order_Date,Region,Category,Product,Customer_Segment,Quantity,Discount,Revenue,Profit
+RT-1001,2026-04-27,East,Home & Kitchen,LED Lamp,Consumer,7,0.05,6379.2,784.24
+RT-1002,2025-01-26,South,Technology,Wireless Mouse,Corporate,5,0.0,13340.23,2587.26
+RT-1003,2025-07-23,North,Technology,Laptop Stand,Small Business,4,0.0,10221.53,748.78
+RT-1004,2024-10-01,South,Technology,Laptop Stand,Consumer,4,0.15,9275.97,1577.69
+RT-1005,2025-02-01,West,Office Supplies,Notebook Set,Small Business,2,0.1,1505.64,559.07
+RT-1006,2026-03-21,West,Technology,USB Hub,Consumer,6,0.25,11404.02,2058.01
+RT-1007,2025-09-02,North,Furniture,Study Desk,Consumer,7,0.15,9643.47,1527.28
+RT-1008,2025-10-24,North,Technology,Laptop Stand,Consumer,5,0.05,9409.72,883.48
+RT-1009,2025-09-15,South,Technology,Wireless Mouse,Consumer,4,0.1,7553.71,1560.81
+RT-1010,2025-09-03,West,Technology,Laptop Stand,Small Business,4,0.1,6457.48,374.43
+RT-1011,2026-02-11,South,Home & Kitchen,Coffee Mug,Consumer,7,0.1,5793.44,752.57
+RT-1012,2024-10-03,North,Office Supplies,Gel Pens,Corporate,1,0.1,341.55,77.97
+RT-1013,2024-09-08,West,Home & Kitchen,Water Bottle,Consumer,7,0.1,5513.43,642.73
+RT-1014,2026-02-16,West,Furniture,Study Desk,Consumer,5,0.1,10034.79,962.93
+RT-1015,2024-02-25,South,Technology,Webcam,Consumer,6,0.15,11997.33,2486.99
+RT-1016,2026-04-28,South,Furniture,Office Chair,Consumer,4,0.0,7039.72,692.41
+RT-1017,2025-10-23,West,Technology,Bluetooth Speaker,Consumer,8,0.25,3040.56,711.13
+RT-1018,2025-10-18,South,Office Supplies,Printer Paper,Consumer,2,0.05,1483.59,341.24
+RT-1019,2026-01-12,West,Furniture,Bookshelf,Consumer,4,0.25,15610.12,1461.07
+RT-1020,2026-01-23,South,Office Supplies,Notebook Set,Corporate,8,0.0,1325.88,213.56
+RT-1021,2025-04-10,East,Technology,Wireless Mouse,Small Business,1,0.1,2195.46,457.68
+RT-1022,2024-03-10,West,Technology,Bluetooth Speaker,Small Business,1,0.05,3952.4,662.89
+RT-1023,2024-03-15,North,Furniture,Bookshelf,Corporate,1,0.25,4591.6,553.64
+RT-1024,2025-11-04,South,Furniture,Office Chair,Corporate,6,0.2,18503.49,3097.66
+RT-1025,2024-05-26,West,Office Supplies,Desk Organizer,Corporate,6,0.0,5134.69,1018.08
+RT-1026,2025-06-03,East,Technology,Bluetooth Speaker,Consumer,7,0.0,22069.95,5706.34
+RT-1027,2024-06-30,North,Furniture,Side Table,Small Business,3,0.0,7889.67,46.58
+RT-1028,2024-11-06,West,Furniture,Study Desk,Consumer,1,0.15,2147.16,326.07
+RT-1029,2025-06-25,West,Office Supplies,Printer Paper,Consumer,1,0.1,448.79,71.04
+RT-1030,2025-05-05,North,Technology,Webcam,Consumer,8,0.25,19628.94,2222.21
+RT-1031,2024-06-25,South,Home & Kitchen,Storage Box,Corporate,8,0.1,4815.35,1036.55
+RT-1032,2025-01-25,South,Office Supplies,Notebook Set,Consumer,3,0.25,1586.97,490.65
+RT-1033,2024-11-03,West,Furniture,Office Chair,Corporate,6,0.25,15737.67,1373.82
+RT-1034,2025-08-03,North,Office Supplies,Printer Paper,Consumer,3,0.1,1236.16,479.27
+RT-1035,2026-05-24,West,Furniture,Office Chair,Consumer,5,0.25,13729.22,1690.63
+RT-1036,2024-05-01,North,Office Supplies,Desk Organizer,Consumer,5,0.05,2604.06,397.64
+RT-1037,2025-11-24,North,Technology,Bluetooth Speaker,Corporate,6,0.1,16895.89,1411.58
+RT-1038,2024-01-10,South,Technology,Webcam,Consumer,1,0.0,538.28,111.06
+RT-1039,2024-05-29,South,Technology,USB Hub,Consumer,2,0.05,5207.8,499.78
+RT-1040,2024-04-20,East,Technology,Webcam,Consumer,4,0.2,4254.52,1114.31
+RT-1041,2025-08-07,North,Office Supplies,Printer Paper,Consumer,1,0.0,465.94,108.41
+RT-1042,2024-11-26,West,Office Supplies,Notebook Set,Consumer,1,0.05,810.91,211.1
+RT-1043,2024-08-26,South,Technology,Wireless Mouse,Consumer,6,0.15,2376.16,406.37
+RT-1044,2025-10-14,East,Technology,Webcam,Consumer,2,0.25,2525.48,549.26
+RT-1045,2025-08-31,South,Technology,Bluetooth Speaker,Consumer,5,0.0,16036.19,-356.9
+RT-1046,2024-12-04,West,Furniture,Office Chair,Small Business,3,0.1,2676.9,291.92
+RT-1047,2026-02-24,West,Technology,Webcam,Consumer,6,0.1,17023.74,4799.11
+RT-1048,2025-06-09,West,Office Supplies,Gel Pens,Small Business,7,0.0,2974.38,776.13
+RT-1049,2025-09-01,East,Office Supplies,Desk Organizer,Consumer,1,0.0,276.04,67.74
+RT-1050,2024-06-27,North,Office Supplies,Notebook Set,Corporate,1,0.1,613.93,204.02
+RT-1051,2026-04-09,North,Home & Kitchen,Water Bottle,Small Business,2,0.05,3349.51,483.58
+RT-1052,2025-12-03,North,Office Supplies,Desk Organizer,Corporate,1,0.1,301.57,69.64
+RT-1053,2024-05-27,East,Office Supplies,Printer Paper,Consumer,8,0.0,804.54,189.8
+RT-1054,2025-06-19,West,Furniture,Office Chair,Small Business,6,0.0,36698.11,4583.52
+RT-1055,2024-02-28,North,Home & Kitchen,Storage Box,Consumer,7,0.0,11802.54,2132.72
+RT-1056,2024-10-25,South,Technology,Wireless Mouse,Consumer,7,0.2,21006.86,4392.55
+RT-1057,2025-04-20,West,Technology,Laptop Stand,Consumer,8,0.0,16259.41,3633.36
+RT-1058,2024-09-17,West,Technology,USB Hub,Consumer,6,0.0,5758.79,1572.74
+RT-1059,2024-06-10,North,Office Supplies,Notebook Set,Corporate,1,0.15,164.0,48.66
+RT-1060,2024-08-12,East,Office Supplies,Printer Paper,Corporate,3,0.2,1783.35,351.89
+RT-1061,2025-08-30,West,Home & Kitchen,Water Bottle,Consumer,6,0.1,2411.51,411.5
+RT-1062,2024-01-18,South,Technology,USB Hub,Consumer,6,0.15,12988.5,3000.7
+RT-1063,2024-01-27,East,Technology,Wireless Mouse,Corporate,8,0.0,13216.77,2864.86
+RT-1064,2026-02-12,South,Technology,Laptop Stand,Corporate,6,0.25,17032.54,3990.57
+RT-1065,2025-04-24,South,Office Supplies,Gel Pens,Small Business,1,0.2,66.36,12.16
+RT-1066,2025-01-01,North,Technology,USB Hub,Consumer,5,0.25,6971.05,1845.29
+RT-1067,2024-09-23,East,Home & Kitchen,Storage Box,Consumer,4,0.25,572.62,115.73
+RT-1068,2025-09-09,West,Office Supplies,Notebook Set,Consumer,6,0.1,3067.51,1110.86
+RT-1069,2024-06-26,South,Technology,Webcam,Corporate,5,0.0,4636.09,799.27
+RT-1070,2024-12-29,North,Office Supplies,Notebook Set,Corporate,2,0.1,170.22,43.12
+RT-1071,2024-01-11,East,Office Supplies,Desk Organizer,Corporate,2,0.15,449.79,80.18
+RT-1072,2024-08-15,West,Furniture,Office Chair,Corporate,7,0.05,15473.29,3143.83
+RT-1073,2024-02-17,East,Office Supplies,Printer Paper,Corporate,8,0.15,3447.29,738.65
+RT-1074,2024-03-23,East,Furniture,Study Desk,Corporate,5,0.1,11892.9,-498.57
+RT-1075,2024-06-08,West,Furniture,Study Desk,Small Business,8,0.2,36989.0,8582.56
+RT-1076,2024-07-22,North,Home & Kitchen,Storage Box,Consumer,4,0.0,6156.38,757.19
+RT-1077,2025-01-18,East,Technology,Laptop Stand,Corporate,4,0.05,1801.01,287.49
+RT-1078,2024-05-09,East,Office Supplies,Printer Paper,Consumer,8,0.0,6097.95,1226.13
+RT-1079,2026-04-30,East,Office Supplies,Gel Pens,Consumer,6,0.05,1197.28,317.8
+RT-1080,2025-01-22,East,Technology,Wireless Mouse,Corporate,6,0.1,17386.59,7295.73
+RT-1081,2025-11-17,East,Home & Kitchen,Water Bottle,Corporate,8,0.0,6758.62,1142.69
+RT-1082,2024-01-18,North,Home & Kitchen,Coffee Mug,Consumer,8,0.15,9754.16,1083.88
+RT-1083,2025-11-22,West,Office Supplies,Printer Paper,Corporate,6,0.05,4350.3,420.88
+RT-1084,2024-08-06,East,Home & Kitchen,LED Lamp,Consumer,2,0.0,262.4,35.48
+RT-1085,2025-07-16,West,Furniture,Bookshelf,Corporate,6,0.25,20415.35,2479.7
+RT-1086,2025-01-31,West,Furniture,Study Desk,Consumer,7,0.05,35810.94,3519.39
+RT-1087,2024-05-26,North,Office Supplies,Notebook Set,Small Business,7,0.1,5640.51,1450.6
+RT-1088,2025-01-16,West,Furniture,Office Chair,Small Business,5,0.25,15170.12,220.55
+RT-1089,2026-06-04,North,Office Supplies,Gel Pens,Corporate,3,0.0,833.04,233.46
+RT-1090,2026-03-26,East,Office Supplies,Desk Organizer,Consumer,5,0.0,4154.85,1581.41
+RT-1091,2025-01-24,South,Furniture,Study Desk,Corporate,7,0.1,15365.41,3454.99
+RT-1092,2024-10-15,East,Office Supplies,Printer Paper,Consumer,3,0.2,148.15,50.79
+RT-1093,2025-06-18,West,Technology,Bluetooth Speaker,Corporate,8,0.15,13786.22,2483.2
+RT-1094,2025-08-14,North,Office Supplies,Desk Organizer,Consumer,7,0.25,2730.11,690.17
+RT-1095,2024-08-15,West,Home & Kitchen,Storage Box,Small Business,2,0.1,1869.54,429.7
+RT-1096,2025-08-17,West,Furniture,Bookshelf,Consumer,7,0.25,19397.03,2142.27
+RT-1097,2024-03-29,South,Office Supplies,Desk Organizer,Small Business,8,0.15,2688.91,824.19
+RT-1098,2025-11-26,West,Technology,USB Hub,Consumer,1,0.0,2883.97,555.51
+RT-1099,2026-05-03,North,Technology,Laptop Stand,Small Business,4,0.25,9402.55,2815.98
+RT-1100,2026-04-05,East,Home & Kitchen,LED Lamp,Consumer,2,0.1,1547.22,382.97
+RT-1101,2024-06-18,South,Technology,Laptop Stand,Consumer,1,0.15,3462.95,692.49
+RT-1102,2026-04-10,North,Office Supplies,Printer Paper,Small Business,3,0.0,787.06,115.69
+RT-1103,2025-11-10,West,Technology,USB Hub,Consumer,3,0.1,7872.46,1172.52
+RT-1104,2026-03-23,East,Home & Kitchen,Water Bottle,Corporate,3,0.2,2002.85,323.61
+RT-1105,2026-04-18,West,Furniture,Bookshelf,Small Business,3,0.15,13262.14,535.24
+RT-1106,2025-03-20,South,Technology,Webcam,Consumer,4,0.1,8536.36,2418.74
+RT-1107,2026-04-06,West,Office Supplies,Notebook Set,Corporate,7,0.05,661.69,227.98
+RT-1108,2025-11-03,East,Furniture,Office Chair,Consumer,6,0.15,21551.96,6486.11
+RT-1109,2025-02-19,West,Home & Kitchen,Storage Box,Corporate,8,0.05,3500.86,770.23
+RT-1110,2024-08-04,East,Office Supplies,Printer Paper,Corporate,1,0.2,319.32,61.16
+RT-1111,2024-08-19,South,Technology,Bluetooth Speaker,Consumer,5,0.15,4507.14,504.83
+RT-1112,2024-01-09,North,Home & Kitchen,Coffee Mug,Consumer,8,0.15,9147.81,996.72
+RT-1113,2026-04-19,North,Furniture,Side Table,Corporate,1,0.25,1339.89,184.96
+RT-1114,2024-01-04,East,Furniture,Study Desk,Consumer,6,0.25,15920.3,1437.04
+RT-1115,2025-05-18,North,Technology,Bluetooth Speaker,Corporate,6,0.15,14406.62,3643.38
+RT-1116,2024-12-07,East,Technology,USB Hub,Consumer,5,0.0,6351.44,1577.02
+RT-1117,2025-02-05,North,Furniture,Office Chair,Consumer,3,0.0,4818.67,467.23
+RT-1118,2025-10-01,South,Technology,Bluetooth Speaker,Corporate,5,0.0,3001.52,411.12
+RT-1119,2026-02-27,East,Technology,Wireless Mouse,Corporate,4,0.0,7275.97,2101.96
+RT-1120,2025-05-30,West,Furniture,Study Desk,Consumer,3,0.2,13118.35,922.19
+RT-1121,2026-03-20,North,Home & Kitchen,Storage Box,Consumer,4,0.05,2641.32,799.97
+RT-1122,2025-05-31,East,Furniture,Study Desk,Small Business,2,0.15,4801.38,142.11
+RT-1123,2026-05-16,East,Technology,USB Hub,Consumer,7,0.2,8878.22,1623.88
+RT-1124,2024-06-11,South,Furniture,Office Chair,Corporate,2,0.15,3543.93,39.78
+RT-1125,2025-07-24,West,Office Supplies,Printer Paper,Small Business,8,0.25,4012.12,1009.87
+RT-1126,2025-06-10,East,Furniture,Bookshelf,Consumer,3,0.15,6345.12,544.11
+RT-1127,2024-10-29,West,Office Supplies,Notebook Set,Consumer,8,0.0,1115.13,409.28
+RT-1128,2026-02-05,North,Office Supplies,Desk Organizer,Corporate,7,0.0,4868.85,679.99
+RT-1129,2024-05-22,West,Office Supplies,Desk Organizer,Small Business,8,0.0,5855.6,1702.86
+RT-1130,2024-11-24,South,Office Supplies,Desk Organizer,Consumer,8,0.0,4873.81,973.74
+RT-1131,2024-01-20,East,Office Supplies,Printer Paper,Corporate,4,0.2,2102.88,242.14
+RT-1132,2024-09-13,North,Home & Kitchen,Coffee Mug,Small Business,6,0.0,4069.41,668.18
+RT-1133,2024-04-26,East,Furniture,Office Chair,Consumer,2,0.25,2485.99,176.37
+RT-1134,2025-09-22,North,Technology,Webcam,Consumer,3,0.0,3838.45,750.14
+RT-1135,2025-11-04,North,Furniture,Study Desk,Consumer,8,0.25,14481.35,756.89
+RT-1136,2025-09-07,South,Office Supplies,Printer Paper,Corporate,8,0.2,2225.23,502.63
+RT-1137,2025-01-09,South,Furniture,Office Chair,Small Business,7,0.25,6914.09,617.61
+RT-1138,2024-01-06,North,Furniture,Bookshelf,Corporate,2,0.1,4686.78,507.76
+RT-1139,2024-01-18,South,Office Supplies,Desk Organizer,Consumer,6,0.0,1137.18,336.35
+RT-1140,2025-07-17,East,Furniture,Side Table,Corporate,6,0.2,14091.64,1635.89
+RT-1141,2026-04-18,West,Technology,Laptop Stand,Consumer,6,0.0,4273.5,662.97
+RT-1142,2024-02-26,West,Office Supplies,Gel Pens,Corporate,8,0.1,5433.65,1485.91
+RT-1143,2026-03-25,West,Home & Kitchen,Water Bottle,Consumer,6,0.05,7492.09,2306.68
+RT-1144,2024-10-13,West,Home & Kitchen,Coffee Mug,Corporate,5,0.0,7824.32,1280.12
+RT-1145,2024-05-07,West,Furniture,Study Desk,Consumer,5,0.0,12501.95,1292.5
+RT-1146,2025-08-04,North,Office Supplies,Notebook Set,Corporate,4,0.2,1978.84,295.71
+RT-1147,2024-01-27,East,Office Supplies,Notebook Set,Corporate,4,0.15,2195.07,849.16
+RT-1148,2024-01-06,West,Furniture,Side Table,Consumer,7,0.05,31205.34,3756.95
+RT-1149,2026-03-25,East,Office Supplies,Notebook Set,Consumer,3,0.05,758.27,159.81
+RT-1150,2026-02-08,West,Technology,Wireless Mouse,Consumer,2,0.0,3265.79,723.7
+RT-1151,2024-01-03,North,Furniture,Side Table,Consumer,7,0.2,22490.8,2846.34
+RT-1152,2024-05-31,East,Office Supplies,Printer Paper,Corporate,1,0.2,383.74,77.83
+RT-1153,2026-01-19,North,Technology,Bluetooth Speaker,Consumer,6,0.0,5629.51,1176.87
+RT-1154,2026-01-23,South,Technology,Wireless Mouse,Consumer,1,0.2,1381.13,256.7
+RT-1155,2024-10-14,East,Office Supplies,Desk Organizer,Corporate,8,0.0,3766.81,868.28
+RT-1156,2024-06-11,West,Furniture,Office Chair,Consumer,3,0.1,12848.51,2137.52
+RT-1157,2026-01-26,North,Office Supplies,Gel Pens,Consumer,7,0.0,3379.46,805.17
+RT-1158,2025-03-02,North,Office Supplies,Gel Pens,Consumer,4,0.1,3138.79,959.6
+RT-1159,2026-03-06,East,Technology,USB Hub,Corporate,6,0.15,4330.62,1048.9
+RT-1160,2024-08-10,West,Office Supplies,Gel Pens,Consumer,5,0.0,4203.35,1083.01
+RT-1161,2026-05-09,West,Office Supplies,Printer Paper,Small Business,7,0.0,4037.94,1315.15
+RT-1162,2026-01-03,West,Office Supplies,Printer Paper,Corporate,1,0.15,346.74,81.37
+RT-1163,2024-10-16,South,Technology,USB Hub,Consumer,7,0.05,21502.91,4052.19
+RT-1164,2026-02-28,South,Furniture,Study Desk,Consumer,3,0.05,9297.03,103.14
+RT-1165,2024-07-25,North,Home & Kitchen,Water Bottle,Consumer,4,0.0,5595.15,1254.06
+RT-1166,2025-12-18,South,Office Supplies,Printer Paper,Corporate,4,0.0,3167.85,553.26
+RT-1167,2024-07-13,North,Home & Kitchen,Coffee Mug,Small Business,1,0.15,1310.68,179.51
+RT-1168,2025-12-03,West,Office Supplies,Printer Paper,Consumer,7,0.0,4461.8,1190.95
+RT-1169,2024-05-27,East,Furniture,Side Table,Corporate,7,0.15,5646.85,755.62
+RT-1170,2025-06-14,East,Office Supplies,Notebook Set,Corporate,8,0.15,4434.66,1072.39
+RT-1171,2026-01-11,East,Furniture,Bookshelf,Consumer,3,0.15,14726.04,2435.91
+RT-1172,2026-01-20,West,Home & Kitchen,Water Bottle,Small Business,1,0.1,1322.55,155.55
+RT-1173,2025-10-16,South,Furniture,Bookshelf,Corporate,1,0.0,3124.84,269.24
+RT-1174,2025-03-10,East,Home & Kitchen,Water Bottle,Corporate,5,0.1,5998.33,1962.48
+RT-1175,2024-02-03,West,Technology,Laptop Stand,Consumer,3,0.05,5157.41,1021.11
+RT-1176,2024-08-24,East,Furniture,Bookshelf,Small Business,1,0.05,3944.5,305.08
+RT-1177,2025-07-02,East,Home & Kitchen,Storage Box,Corporate,4,0.0,6955.93,1170.64
+RT-1178,2024-05-30,East,Furniture,Study Desk,Consumer,3,0.0,10744.7,631.74
+RT-1179,2024-02-04,South,Furniture,Side Table,Consumer,4,0.0,5056.71,568.3
+RT-1180,2024-08-07,West,Home & Kitchen,Water Bottle,Consumer,7,0.25,8401.02,1422.44
+RT-1181,2024-02-28,West,Home & Kitchen,Storage Box,Consumer,2,0.1,1828.44,289.17
+RT-1182,2025-03-05,West,Office Supplies,Desk Organizer,Consumer,4,0.0,711.43,181.65
+RT-1183,2024-07-12,North,Office Supplies,Desk Organizer,Small Business,6,0.1,2937.47,885.25
+RT-1184,2024-07-02,South,Technology,Webcam,Small Business,3,0.15,3877.39,502.76
+RT-1185,2025-11-20,North,Home & Kitchen,Water Bottle,Consumer,6,0.0,4861.33,973.44
+RT-1186,2024-09-14,North,Furniture,Bookshelf,Consumer,2,0.1,2088.0,52.61
+RT-1187,2026-04-25,South,Office Supplies,Printer Paper,Corporate,5,0.05,3811.05,1171.17
+RT-1188,2025-02-05,East,Home & Kitchen,Coffee Mug,Corporate,1,0.2,1134.78,203.19
+RT-1189,2024-05-11,East,Office Supplies,Desk Organizer,Consumer,8,0.0,2535.63,866.48
+RT-1190,2024-04-22,East,Office Supplies,Printer Paper,Consumer,1,0.2,96.99,24.9
+RT-1191,2025-02-07,South,Office Supplies,Gel Pens,Corporate,2,0.05,458.89,164.44
+RT-1192,2025-04-27,North,Home & Kitchen,Storage Box,Corporate,5,0.2,4445.33,829.03
+RT-1193,2025-05-20,North,Home & Kitchen,Water Bottle,Small Business,3,0.25,922.97,144.27
+RT-1194,2024-03-21,South,Furniture,Office Chair,Consumer,1,0.0,5866.5,1359.46
+RT-1195,2026-06-04,East,Office Supplies,Printer Paper,Corporate,6,0.25,673.57,163.34
+RT-1196,2025-05-19,South,Technology,Webcam,Corporate,1,0.1,2379.43,400.32
+RT-1197,2025-12-16,West,Office Supplies,Printer Paper,Consumer,5,0.15,2924.21,699.99
+RT-1198,2024-08-11,North,Home & Kitchen,Storage Box,Consumer,6,0.2,683.4,112.16
+RT-1199,2024-08-25,West,Office Supplies,Gel Pens,Small Business,8,0.0,1248.64,279.59
+RT-1200,2025-01-13,South,Furniture,Side Table,Corporate,3,0.1,16591.04,2198.9
+RT-1201,2026-04-10,North,Furniture,Side Table,Corporate,5,0.15,25481.94,5785.37
+RT-1202,2026-06-07,South,Furniture,Side Table,Corporate,8,0.2,26816.48,3425.99
+RT-1203,2024-03-08,North,Office Supplies,Notebook Set,Corporate,8,0.25,1032.87,173.37
+RT-1204,2025-08-28,East,Office Supplies,Printer Paper,Corporate,1,0.0,441.27,114.0
+RT-1205,2025-05-17,West,Furniture,Study Desk,Corporate,6,0.0,34666.34,-1372.52
+RT-1206,2024-09-12,East,Technology,USB Hub,Consumer,3,0.25,8026.29,395.42
+RT-1207,2025-12-26,East,Technology,Webcam,Small Business,7,0.25,7535.82,1515.54
+RT-1208,2025-05-05,South,Office Supplies,Desk Organizer,Consumer,6,0.25,280.87,65.04
+RT-1209,2024-04-29,West,Home & Kitchen,LED Lamp,Corporate,3,0.25,3263.4,89.64
+RT-1210,2025-02-11,West,Home & Kitchen,Storage Box,Consumer,3,0.0,4768.55,658.33
+RT-1211,2024-11-16,East,Technology,Webcam,Consumer,1,0.1,2706.64,219.46
+RT-1212,2025-07-26,North,Home & Kitchen,LED Lamp,Corporate,5,0.1,1021.62,136.83
+RT-1213,2024-05-04,West,Technology,Webcam,Small Business,3,0.0,9934.14,1357.79
+RT-1214,2025-07-03,North,Furniture,Side Table,Consumer,6,0.0,23627.94,4796.78
+RT-1215,2025-07-04,East,Technology,Bluetooth Speaker,Corporate,8,0.2,16656.02,1505.54
+RT-1216,2026-05-17,South,Furniture,Bookshelf,Corporate,7,0.1,26871.56,2228.41
+RT-1217,2026-06-04,North,Technology,Bluetooth Speaker,Consumer,3,0.05,8899.12,2422.56
+RT-1218,2025-09-28,West,Technology,Bluetooth Speaker,Consumer,3,0.15,5216.53,589.35
+RT-1219,2024-07-20,East,Furniture,Bookshelf,Consumer,8,0.0,23753.45,4191.05
+RT-1220,2025-11-08,East,Furniture,Study Desk,Consumer,5,0.05,23783.81,5752.61
+RT-1221,2024-05-23,West,Technology,Laptop Stand,Consumer,3,0.1,10635.59,1646.59
+RT-1222,2025-09-13,East,Technology,Bluetooth Speaker,Consumer,7,0.15,19342.82,2598.89
+RT-1223,2025-08-28,West,Office Supplies,Desk Organizer,Consumer,7,0.0,3606.14,1064.46
+RT-1224,2025-10-24,West,Technology,Laptop Stand,Corporate,3,0.05,10604.24,2347.22
+RT-1225,2024-11-22,North,Technology,Wireless Mouse,Consumer,5,0.05,15693.41,4921.39
+RT-1226,2025-03-12,South,Furniture,Study Desk,Consumer,6,0.25,6120.51,815.84
+RT-1227,2025-05-17,East,Office Supplies,Notebook Set,Consumer,3,0.15,2120.96,399.36
+RT-1228,2026-04-02,West,Home & Kitchen,Storage Box,Consumer,5,0.15,2195.71,685.91
+RT-1229,2026-05-07,North,Technology,Wireless Mouse,Corporate,7,0.1,4148.63,1032.28
+RT-1230,2025-10-12,West,Office Supplies,Gel Pens,Corporate,2,0.2,227.34,76.74
+RT-1231,2025-09-27,West,Home & Kitchen,Storage Box,Corporate,7,0.0,1139.29,256.6
+RT-1232,2026-06-17,South,Technology,Wireless Mouse,Consumer,5,0.25,13737.47,2725.25
+RT-1233,2025-04-02,East,Home & Kitchen,Coffee Mug,Consumer,7,0.0,10165.58,2398.28
+RT-1234,2025-02-04,East,Office Supplies,Printer Paper,Small Business,3,0.0,1758.59,635.1
+RT-1235,2025-03-09,West,Office Supplies,Notebook Set,Consumer,3,0.2,1879.04,342.34
+RT-1236,2026-06-12,West,Furniture,Side Table,Corporate,8,0.05,6038.85,1408.71
+RT-1237,2026-01-11,East,Home & Kitchen,LED Lamp,Corporate,1,0.2,802.3,48.27
+RT-1238,2024-04-24,West,Office Supplies,Notebook Set,Consumer,8,0.1,305.71,97.85
+RT-1239,2026-03-21,East,Home & Kitchen,LED Lamp,Corporate,5,0.0,4220.72,494.8
+RT-1240,2025-07-11,West,Office Supplies,Notebook Set,Consumer,2,0.0,329.35,124.31
+RT-1241,2026-03-07,West,Home & Kitchen,Water Bottle,Corporate,6,0.1,4498.25,603.0
+RT-1242,2024-02-07,North,Technology,USB Hub,Consumer,5,0.2,16559.46,3059.61
+RT-1243,2025-03-25,South,Technology,Bluetooth Speaker,Corporate,5,0.0,10683.8,3863.45
+RT-1244,2024-11-28,East,Technology,USB Hub,Consumer,5,0.0,5921.17,815.22
+RT-1245,2025-01-13,North,Office Supplies,Desk Organizer,Consumer,8,0.2,534.23,197.18
+RT-1246,2025-11-01,North,Technology,USB Hub,Small Business,8,0.0,21483.28,4575.4
+RT-1247,2024-02-20,South,Technology,Bluetooth Speaker,Consumer,4,0.1,5618.25,1305.84
+RT-1248,2026-02-20,East,Home & Kitchen,Storage Box,Consumer,6,0.0,5457.56,451.92
+RT-1249,2025-06-19,West,Office Supplies,Notebook Set,Consumer,4,0.1,1195.25,338.43
+RT-1250,2025-03-06,North,Office Supplies,Printer Paper,Small Business,1,0.05,781.62,182.97
+RT-1251,2025-09-07,South,Office Supplies,Printer Paper,Consumer,6,0.0,379.53,128.38
+RT-1252,2024-04-26,West,Home & Kitchen,Coffee Mug,Consumer,4,0.25,5168.52,769.19
+RT-1253,2024-04-09,South,Technology,USB Hub,Consumer,3,0.05,10568.17,2376.25
+RT-1254,2025-11-20,West,Technology,USB Hub,Consumer,2,0.15,2556.56,611.04
+RT-1255,2026-04-12,East,Home & Kitchen,Storage Box,Small Business,6,0.1,4630.12,694.91
+RT-1256,2024-10-02,East,Office Supplies,Notebook Set,Consumer,2,0.25,994.65,245.34
+RT-1257,2026-03-02,North,Office Supplies,Desk Organizer,Consumer,3,0.15,192.81,63.91
+RT-1258,2025-11-02,North,Furniture,Study Desk,Consumer,5,0.0,30610.02,2935.68
+RT-1259,2026-02-22,North,Furniture,Study Desk,Small Business,8,0.25,29163.4,5354.02
+RT-1260,2026-03-31,West,Technology,Bluetooth Speaker,Corporate,2,0.05,2994.58,802.96
+RT-1261,2024-07-21,East,Office Supplies,Notebook Set,Consumer,3,0.1,1827.63,637.11
+RT-1262,2025-10-27,West,Office Supplies,Desk Organizer,Consumer,4,0.1,1744.94,642.98
+RT-1263,2024-06-06,South,Furniture,Side Table,Corporate,5,0.0,29612.91,1813.6
+RT-1264,2024-01-30,West,Technology,Bluetooth Speaker,Corporate,7,0.25,12651.6,1916.0
+RT-1265,2025-08-11,East,Home & Kitchen,Storage Box,Consumer,8,0.0,3985.8,587.28
+RT-1266,2025-09-22,North,Home & Kitchen,LED Lamp,Corporate,2,0.0,1017.19,210.4
+RT-1267,2025-09-23,East,Technology,Webcam,Consumer,8,0.05,13484.67,2282.52
+RT-1268,2026-04-18,South,Technology,Laptop Stand,Consumer,8,0.0,8619.43,2360.68
+RT-1269,2026-03-29,East,Technology,Wireless Mouse,Corporate,7,0.0,20795.11,2528.96
+RT-1270,2025-10-19,West,Technology,Webcam,Consumer,6,0.15,14737.61,2178.66
+RT-1271,2025-04-19,South,Technology,Laptop Stand,Consumer,7,0.0,15564.83,4173.12
+RT-1272,2025-02-07,East,Office Supplies,Desk Organizer,Consumer,5,0.15,1019.32,298.96
+RT-1273,2026-02-20,West,Furniture,Study Desk,Consumer,4,0.0,4725.45,414.07
+RT-1274,2026-03-24,West,Office Supplies,Gel Pens,Corporate,7,0.05,1484.15,426.47
+RT-1275,2025-02-04,North,Home & Kitchen,Water Bottle,Consumer,8,0.15,11507.97,1007.02
+RT-1276,2025-01-15,South,Furniture,Office Chair,Consumer,8,0.1,31370.08,4602.02
+RT-1277,2024-10-22,North,Home & Kitchen,Water Bottle,Consumer,4,0.1,5589.65,1477.44
+RT-1278,2024-07-25,West,Technology,Laptop Stand,Consumer,7,0.0,25570.64,3419.04
+RT-1279,2024-05-24,North,Technology,Laptop Stand,Consumer,1,0.15,3101.5,965.76
+RT-1280,2025-02-08,West,Office Supplies,Desk Organizer,Consumer,1,0.25,456.1,161.4
+RT-1281,2024-06-11,West,Home & Kitchen,Coffee Mug,Corporate,3,0.0,2792.31,446.82
+RT-1282,2025-06-23,South,Technology,Laptop Stand,Consumer,3,0.0,10545.83,1908.65
+RT-1283,2026-06-08,West,Office Supplies,Printer Paper,Consumer,2,0.05,364.94,94.98
+RT-1284,2026-03-31,West,Home & Kitchen,Coffee Mug,Consumer,8,0.0,6899.81,2162.92
+RT-1285,2026-04-21,West,Home & Kitchen,Storage Box,Consumer,5,0.15,4552.49,996.33
+RT-1286,2024-12-02,South,Furniture,Study Desk,Consumer,7,0.1,36447.04,4006.24
+RT-1287,2024-06-15,South,Office Supplies,Notebook Set,Corporate,4,0.0,1961.21,530.03
+RT-1288,2024-02-19,West,Home & Kitchen,Coffee Mug,Consumer,3,0.2,4053.1,944.89
+RT-1289,2024-10-03,West,Office Supplies,Notebook Set,Consumer,8,0.0,5353.76,1216.73
+RT-1290,2025-07-05,North,Furniture,Side Table,Consumer,3,0.0,7092.71,1230.15
+RT-1291,2025-01-17,North,Furniture,Study Desk,Consumer,8,0.0,51390.53,8338.52
+RT-1292,2025-02-14,West,Office Supplies,Printer Paper,Consumer,6,0.1,1464.54,500.97
+RT-1293,2025-11-29,East,Home & Kitchen,Coffee Mug,Consumer,7,0.0,10125.46,948.25
+RT-1294,2024-06-12,West,Office Supplies,Printer Paper,Small Business,8,0.1,3515.51,935.98
+RT-1295,2024-02-21,West,Office Supplies,Desk Organizer,Consumer,3,0.1,1600.61,398.14
+RT-1296,2025-08-10,East,Furniture,Office Chair,Corporate,7,0.1,10980.96,2765.26
+RT-1297,2024-04-08,West,Office Supplies,Notebook Set,Corporate,7,0.05,4499.34,1018.75
+RT-1298,2025-01-20,North,Office Supplies,Printer Paper,Corporate,6,0.1,651.91,111.08
+RT-1299,2024-03-11,North,Home & Kitchen,Storage Box,Corporate,4,0.25,4706.19,77.54
+RT-1300,2024-04-15,South,Office Supplies,Notebook Set,Corporate,5,0.05,1787.11,695.43
+RT-1301,2024-07-07,North,Technology,Laptop Stand,Consumer,8,0.1,28144.45,4713.89
+RT-1302,2025-08-24,West,Office Supplies,Notebook Set,Consumer,3,0.25,1351.09,294.13
+RT-1303,2024-01-08,East,Furniture,Bookshelf,Corporate,7,0.05,10472.21,1547.36
+RT-1304,2024-07-26,West,Home & Kitchen,Coffee Mug,Small Business,8,0.25,4279.66,830.79
+RT-1305,2024-10-23,West,Furniture,Side Table,Small Business,3,0.15,11539.31,1129.08
+RT-1306,2024-06-19,North,Office Supplies,Printer Paper,Corporate,3,0.25,141.14,44.77
+RT-1307,2026-03-18,West,Office Supplies,Printer Paper,Small Business,7,0.1,4544.88,1259.1
+RT-1308,2024-10-12,West,Office Supplies,Notebook Set,Consumer,7,0.1,4231.07,1437.57
+RT-1309,2025-11-29,South,Home & Kitchen,Storage Box,Corporate,7,0.1,6780.71,335.69
+RT-1310,2024-04-15,East,Office Supplies,Desk Organizer,Corporate,1,0.1,96.97,17.31
+RT-1311,2024-05-24,South,Home & Kitchen,LED Lamp,Small Business,3,0.2,2236.66,365.06
+RT-1312,2025-02-09,West,Technology,Laptop Stand,Consumer,4,0.1,7990.37,1082.56
+RT-1313,2025-05-06,South,Office Supplies,Printer Paper,Consumer,5,0.2,1541.66,413.76
+RT-1314,2026-03-18,South,Office Supplies,Gel Pens,Consumer,5,0.15,1437.58,345.82
+RT-1315,2025-04-02,East,Technology,Wireless Mouse,Consumer,4,0.0,2340.71,560.75
+RT-1316,2026-04-30,West,Home & Kitchen,Water Bottle,Corporate,1,0.0,542.83,113.19
+RT-1317,2025-02-17,East,Office Supplies,Notebook Set,Consumer,2,0.0,1563.53,592.4
+RT-1318,2025-10-15,North,Furniture,Bookshelf,Consumer,1,0.25,1346.57,113.04
+RT-1319,2025-08-07,South,Furniture,Study Desk,Corporate,6,0.0,27578.01,1578.72
+RT-1320,2024-06-05,North,Technology,Webcam,Consumer,4,0.15,11470.19,1046.45
+RT-1321,2025-08-17,North,Technology,Webcam,Consumer,7,0.0,24187.59,2263.39
+RT-1322,2024-11-24,North,Technology,Webcam,Consumer,3,0.0,2733.67,682.37
+RT-1323,2024-01-24,East,Office Supplies,Notebook Set,Corporate,4,0.05,2474.22,722.69
+RT-1324,2024-01-16,West,Technology,Laptop Stand,Consumer,1,0.2,2558.47,820.88
+RT-1325,2024-11-22,West,Technology,Wireless Mouse,Small Business,2,0.25,4262.75,975.2
+RT-1326,2024-01-17,East,Furniture,Side Table,Consumer,2,0.0,11298.64,1231.28
+RT-1327,2025-05-12,West,Home & Kitchen,Storage Box,Consumer,5,0.0,7752.24,839.48
+RT-1328,2025-05-08,South,Home & Kitchen,Coffee Mug,Corporate,4,0.0,4028.71,357.45
+RT-1329,2025-11-18,East,Technology,Laptop Stand,Consumer,7,0.0,4841.38,961.32
+RT-1330,2024-09-17,West,Office Supplies,Gel Pens,Consumer,5,0.0,3671.61,991.56
+RT-1331,2025-01-13,South,Furniture,Side Table,Corporate,2,0.0,12879.24,1920.11
+RT-1332,2025-07-13,West,Office Supplies,Printer Paper,Small Business,2,0.25,996.05,202.54
+RT-1333,2025-09-02,South,Home & Kitchen,Coffee Mug,Consumer,4,0.0,7012.25,1014.33
+RT-1334,2025-05-20,North,Technology,Laptop Stand,Corporate,1,0.25,746.21,66.65
+RT-1335,2025-05-12,West,Furniture,Bookshelf,Corporate,7,0.15,38310.28,1355.15
+RT-1336,2024-05-29,South,Furniture,Bookshelf,Consumer,1,0.2,3146.32,332.33
+RT-1337,2025-09-30,South,Home & Kitchen,Water Bottle,Consumer,6,0.2,885.49,145.94
+RT-1338,2025-12-23,West,Office Supplies,Gel Pens,Consumer,4,0.15,1728.6,442.17
+RT-1339,2025-04-14,North,Technology,Webcam,Corporate,6,0.0,10142.35,1835.56
+RT-1340,2025-11-19,West,Technology,Wireless Mouse,Consumer,4,0.05,4578.72,585.71
+RT-1341,2025-05-24,West,Home & Kitchen,LED Lamp,Corporate,8,0.05,11297.62,-93.43
+RT-1342,2024-02-17,West,Office Supplies,Notebook Set,Corporate,5,0.1,2324.0,493.19
+RT-1343,2025-02-06,West,Home & Kitchen,Coffee Mug,Corporate,4,0.15,1026.48,227.34
+RT-1344,2024-03-28,South,Technology,Laptop Stand,Consumer,3,0.0,4995.6,1096.26
+RT-1345,2024-04-03,East,Technology,Webcam,Corporate,5,0.1,17911.52,3131.25
+RT-1346,2024-07-17,South,Office Supplies,Printer Paper,Corporate,5,0.1,1475.85,307.3
+RT-1347,2024-08-07,West,Technology,Bluetooth Speaker,Corporate,6,0.0,11399.16,2845.74
+RT-1348,2024-11-15,North,Office Supplies,Gel Pens,Consumer,2,0.0,463.75,120.64
+RT-1349,2024-11-18,South,Technology,Laptop Stand,Consumer,8,0.0,4813.94,1295.3
+RT-1350,2025-03-28,East,Furniture,Office Chair,Corporate,8,0.2,6710.03,969.96
+RT-1351,2026-03-25,East,Furniture,Study Desk,Corporate,4,0.1,16558.0,3478.59
+RT-1352,2024-02-01,South,Office Supplies,Notebook Set,Consumer,7,0.2,2982.81,840.23
+RT-1353,2024-05-09,East,Office Supplies,Gel Pens,Consumer,8,0.0,2621.31,732.85
+RT-1354,2024-10-23,West,Home & Kitchen,Water Bottle,Consumer,1,0.0,1079.35,129.72
+RT-1355,2026-04-12,North,Furniture,Study Desk,Consumer,5,0.1,5819.47,631.35
+RT-1356,2026-05-17,West,Technology,Webcam,Consumer,2,0.15,2713.06,754.88
+RT-1357,2026-06-03,North,Office Supplies,Gel Pens,Small Business,2,0.1,1497.17,598.65
+RT-1358,2024-03-14,North,Technology,Wireless Mouse,Corporate,3,0.0,12255.13,2450.25
+RT-1359,2026-03-12,West,Office Supplies,Notebook Set,Corporate,2,0.0,1698.14,499.79
+RT-1360,2024-05-08,North,Office Supplies,Notebook Set,Small Business,6,0.05,943.82,115.78
+RT-1361,2024-08-31,North,Technology,Wireless Mouse,Consumer,7,0.0,17594.13,1477.35
+RT-1362,2026-04-03,South,Home & Kitchen,Coffee Mug,Consumer,3,0.0,4905.27,1005.59
+RT-1363,2025-04-05,South,Home & Kitchen,Storage Box,Corporate,1,0.1,743.77,174.25
+RT-1364,2024-03-24,West,Furniture,Study Desk,Consumer,8,0.15,33051.15,3422.67
+RT-1365,2025-02-15,North,Office Supplies,Desk Organizer,Consumer,6,0.25,1481.3,288.62
+RT-1366,2025-11-27,South,Technology,Bluetooth Speaker,Consumer,2,0.05,7521.38,1500.95
+RT-1367,2026-02-19,East,Home & Kitchen,Water Bottle,Consumer,5,0.1,4682.66,792.06
+RT-1368,2025-08-06,East,Home & Kitchen,Coffee Mug,Small Business,8,0.15,4527.35,748.47
+RT-1369,2026-01-05,North,Technology,Bluetooth Speaker,Consumer,8,0.2,15552.77,2765.63
+RT-1370,2025-07-15,West,Technology,Laptop Stand,Consumer,3,0.0,6539.11,724.87
+RT-1371,2024-03-30,South,Furniture,Office Chair,Consumer,5,0.15,16723.28,2211.79
+RT-1372,2024-08-14,East,Office Supplies,Printer Paper,Small Business,6,0.0,4650.76,689.38
+RT-1373,2024-12-12,East,Technology,Wireless Mouse,Consumer,3,0.1,10306.24,1912.81
+RT-1374,2025-10-03,South,Office Supplies,Notebook Set,Corporate,7,0.0,2147.92,500.72
+RT-1375,2024-08-04,South,Technology,Webcam,Consumer,8,0.0,6388.14,1082.55
+RT-1376,2026-05-21,West,Technology,USB Hub,Consumer,1,0.0,1174.41,126.16
+RT-1377,2024-03-14,West,Office Supplies,Desk Organizer,Corporate,5,0.1,3833.56,813.37
+RT-1378,2026-06-06,South,Office Supplies,Desk Organizer,Corporate,4,0.1,2084.46,572.83
+RT-1379,2025-10-04,South,Home & Kitchen,Storage Box,Consumer,5,0.0,4056.96,579.75
+RT-1380,2025-08-14,South,Technology,Webcam,Consumer,4,0.2,6486.9,1416.38
+RT-1381,2024-03-27,West,Furniture,Side Table,Corporate,8,0.2,41193.64,8655.19
+RT-1382,2024-03-28,East,Home & Kitchen,Storage Box,Consumer,4,0.2,4014.41,939.58
+RT-1383,2025-03-20,West,Home & Kitchen,Coffee Mug,Corporate,8,0.0,8217.62,1021.5
+RT-1384,2026-02-12,West,Office Supplies,Notebook Set,Consumer,4,0.0,1701.56,417.39
+RT-1385,2025-10-22,South,Furniture,Office Chair,Corporate,7,0.0,6807.29,679.11
+RT-1386,2025-07-14,West,Technology,Bluetooth Speaker,Consumer,5,0.0,4775.12,904.92
+RT-1387,2024-01-27,West,Furniture,Bookshelf,Small Business,5,0.15,4923.13,367.46
+RT-1388,2026-03-09,East,Office Supplies,Notebook Set,Consumer,6,0.0,4226.94,1096.52
+RT-1389,2026-02-01,South,Office Supplies,Printer Paper,Consumer,4,0.1,1624.66,443.6
+RT-1390,2026-06-15,East,Technology,Bluetooth Speaker,Consumer,5,0.15,6911.93,1139.52
+RT-1391,2025-12-31,West,Technology,USB Hub,Consumer,7,0.0,22115.33,5428.2
+RT-1392,2026-02-06,East,Office Supplies,Printer Paper,Consumer,4,0.1,2593.89,616.2
+RT-1393,2025-06-29,West,Technology,Bluetooth Speaker,Consumer,4,0.05,14966.33,2001.1
+RT-1394,2024-04-03,South,Home & Kitchen,Water Bottle,Consumer,6,0.0,10336.97,1930.24
+RT-1395,2024-05-21,North,Home & Kitchen,Storage Box,Small Business,7,0.15,8660.63,1993.95
+RT-1396,2024-03-28,East,Technology,Webcam,Small Business,7,0.2,10342.96,2717.07
+RT-1397,2025-09-27,South,Technology,USB Hub,Corporate,8,0.0,23710.1,3952.8
+RT-1398,2026-04-16,North,Office Supplies,Gel Pens,Small Business,3,0.15,2057.08,535.39
+RT-1399,2024-04-22,West,Office Supplies,Notebook Set,Consumer,8,0.0,1213.94,319.89
+RT-1400,2025-08-28,West,Office Supplies,Desk Organizer,Consumer,5,0.0,532.18,111.31
+RT-1401,2025-05-20,East,Technology,Wireless Mouse,Consumer,4,0.1,6094.17,1140.12
+RT-1402,2025-08-28,East,Technology,Webcam,Corporate,7,0.15,20032.67,6296.08
+RT-1403,2024-07-09,South,Furniture,Bookshelf,Consumer,2,0.0,6903.04,1113.13
+RT-1404,2025-11-22,East,Technology,Laptop Stand,Consumer,3,0.2,9734.95,2437.63
+RT-1405,2024-11-02,North,Furniture,Office Chair,Corporate,2,0.05,2709.06,259.85
+RT-1406,2025-10-07,West,Office Supplies,Printer Paper,Consumer,7,0.0,2004.63,548.84
+RT-1407,2025-07-30,North,Furniture,Bookshelf,Corporate,7,0.15,21088.42,2368.93
+RT-1408,2025-03-04,South,Furniture,Side Table,Consumer,1,0.0,6272.02,596.24
+RT-1409,2025-04-27,East,Technology,Laptop Stand,Consumer,8,0.0,18559.69,2147.87
+RT-1410,2024-04-16,West,Technology,Wireless Mouse,Consumer,1,0.1,2470.31,384.95
+RT-1411,2024-06-11,East,Furniture,Side Table,Consumer,4,0.0,5455.18,647.81
+RT-1412,2026-03-06,North,Home & Kitchen,LED Lamp,Consumer,5,0.1,3092.5,1292.4
+RT-1413,2024-12-08,North,Office Supplies,Desk Organizer,Small Business,4,0.1,1785.18,508.32
+RT-1414,2026-06-16,West,Office Supplies,Gel Pens,Small Business,3,0.05,539.04,132.55
+RT-1415,2026-05-24,North,Home & Kitchen,LED Lamp,Consumer,2,0.15,267.61,29.06
+RT-1416,2025-06-06,South,Office Supplies,Printer Paper,Small Business,1,0.1,218.39,44.69
+RT-1417,2025-07-14,East,Office Supplies,Notebook Set,Corporate,2,0.0,1764.68,588.22
+RT-1418,2026-03-16,South,Furniture,Bookshelf,Consumer,6,0.15,11092.13,3341.82
+RT-1419,2025-09-16,South,Technology,Webcam,Corporate,7,0.1,7763.76,1908.01
+RT-1420,2024-01-28,South,Home & Kitchen,Coffee Mug,Corporate,1,0.1,807.59,185.98
+RT-1421,2024-05-13,South,Office Supplies,Notebook Set,Corporate,4,0.1,491.02,115.11
+RT-1422,2025-09-19,East,Office Supplies,Gel Pens,Corporate,2,0.25,1283.88,155.7
+RT-1423,2025-07-23,East,Technology,USB Hub,Consumer,1,0.15,2309.76,377.27
+RT-1424,2025-01-24,East,Technology,Laptop Stand,Small Business,4,0.0,5640.6,1486.53
+RT-1425,2025-11-27,West,Home & Kitchen,Coffee Mug,Corporate,2,0.05,762.89,139.2
+RT-1426,2026-03-11,West,Office Supplies,Notebook Set,Consumer,4,0.0,426.78,141.82
+RT-1427,2026-05-07,East,Furniture,Bookshelf,Consumer,3,0.25,10896.09,686.25
+RT-1428,2024-01-21,South,Office Supplies,Gel Pens,Consumer,4,0.25,1774.23,442.79
+RT-1429,2025-06-24,West,Furniture,Office Chair,Consumer,5,0.2,5383.5,888.43
+RT-1430,2025-12-01,West,Technology,USB Hub,Consumer,2,0.1,2024.14,610.0
+RT-1431,2025-07-08,North,Technology,Webcam,Consumer,6,0.0,20449.94,3052.49
+RT-1432,2025-07-15,South,Furniture,Side Table,Consumer,7,0.15,23346.35,3524.39
+RT-1433,2026-02-15,West,Furniture,Side Table,Consumer,2,0.0,6375.23,358.49
+RT-1434,2024-01-03,East,Furniture,Office Chair,Consumer,6,0.0,33686.17,4909.56
+RT-1435,2024-06-28,East,Home & Kitchen,Water Bottle,Consumer,2,0.1,1012.04,180.32
+RT-1436,2025-07-26,South,Office Supplies,Notebook Set,Consumer,7,0.05,3437.12,1288.29
+RT-1437,2026-01-31,South,Technology,Laptop Stand,Small Business,4,0.0,11763.68,3037.72
+RT-1438,2024-08-16,East,Office Supplies,Gel Pens,Consumer,4,0.2,194.54,58.35
+RT-1439,2025-10-24,South,Technology,USB Hub,Small Business,8,0.2,17800.35,3291.9
+RT-1440,2026-03-03,North,Technology,Bluetooth Speaker,Corporate,4,0.0,7208.21,1308.69
+RT-1441,2025-08-04,West,Home & Kitchen,LED Lamp,Consumer,4,0.15,6094.15,872.28
+RT-1442,2025-08-21,North,Home & Kitchen,LED Lamp,Consumer,3,0.0,897.8,162.45
+RT-1443,2024-05-05,West,Furniture,Office Chair,Consumer,2,0.0,12570.83,1150.96
+RT-1444,2026-04-09,North,Technology,USB Hub,Consumer,1,0.15,1362.47,158.14
+RT-1445,2025-12-30,South,Technology,Bluetooth Speaker,Consumer,6,0.1,3723.04,681.38
+RT-1446,2025-01-19,North,Office Supplies,Desk Organizer,Consumer,2,0.1,1293.29,565.37
+RT-1447,2025-03-29,South,Furniture,Bookshelf,Consumer,8,0.15,36134.9,2220.66
+RT-1448,2024-11-12,West,Technology,Bluetooth Speaker,Small Business,5,0.05,8809.98,2619.25
+RT-1449,2024-05-30,South,Furniture,Study Desk,Consumer,2,0.0,7958.18,1421.48
+RT-1450,2024-12-07,North,Furniture,Office Chair,Consumer,3,0.0,6233.71,643.61
+RT-1451,2024-08-14,West,Office Supplies,Gel Pens,Consumer,1,0.1,245.05,62.52
+RT-1452,2025-03-01,East,Technology,Bluetooth Speaker,Consumer,5,0.1,5050.75,745.89
+RT-1453,2025-02-16,South,Office Supplies,Gel Pens,Corporate,4,0.05,2275.57,472.2
+RT-1454,2025-01-20,North,Office Supplies,Notebook Set,Corporate,4,0.1,516.62,154.18
+RT-1455,2025-10-06,North,Technology,USB Hub,Consumer,6,0.1,3801.77,909.44
+RT-1456,2025-05-29,North,Home & Kitchen,LED Lamp,Consumer,5,0.25,4395.64,96.51
+RT-1457,2026-04-14,North,Office Supplies,Gel Pens,Consumer,1,0.2,143.54,27.93
+RT-1458,2025-10-14,South,Home & Kitchen,LED Lamp,Corporate,7,0.1,1935.63,120.16
+RT-1459,2024-07-28,East,Office Supplies,Gel Pens,Consumer,3,0.2,699.65,104.34
+RT-1460,2025-07-10,South,Technology,Bluetooth Speaker,Consumer,1,0.0,2229.57,315.19
+RT-1461,2025-08-21,North,Home & Kitchen,Coffee Mug,Corporate,4,0.0,4495.58,966.33
+RT-1462,2025-01-31,East,Home & Kitchen,Storage Box,Corporate,4,0.0,3410.64,312.76
+RT-1463,2024-01-12,East,Furniture,Study Desk,Corporate,4,0.1,21277.52,38.75
+RT-1464,2025-06-04,West,Office Supplies,Notebook Set,Small Business,6,0.15,655.34,156.45
+RT-1465,2026-03-25,East,Office Supplies,Desk Organizer,Corporate,8,0.25,1824.0,379.07
+RT-1466,2024-10-17,West,Office Supplies,Gel Pens,Corporate,2,0.0,1347.72,263.47
+RT-1467,2024-02-07,West,Home & Kitchen,LED Lamp,Corporate,4,0.15,3654.29,666.57
+RT-1468,2025-06-01,West,Office Supplies,Printer Paper,Corporate,4,0.0,3371.47,1095.57
+RT-1469,2024-05-06,West,Office Supplies,Printer Paper,Consumer,1,0.0,687.22,207.26
+RT-1470,2026-05-21,West,Home & Kitchen,Storage Box,Corporate,2,0.25,437.62,42.65
+RT-1471,2025-06-06,West,Furniture,Side Table,Consumer,6,0.2,24959.2,3025.19
+RT-1472,2024-05-23,East,Home & Kitchen,Water Bottle,Consumer,5,0.0,3186.58,387.9
+RT-1473,2024-01-18,West,Technology,USB Hub,Small Business,6,0.1,19425.44,1687.09
+RT-1474,2026-03-18,South,Home & Kitchen,Storage Box,Consumer,5,0.0,2790.44,609.52
+RT-1475,2025-10-20,East,Office Supplies,Printer Paper,Corporate,5,0.0,3197.16,764.2
+RT-1476,2025-01-01,West,Office Supplies,Desk Organizer,Consumer,1,0.0,164.04,34.96
+RT-1477,2025-04-21,North,Furniture,Bookshelf,Consumer,3,0.25,11317.01,948.2
+RT-1478,2025-06-04,West,Office Supplies,Notebook Set,Corporate,1,0.0,708.02,245.21
+RT-1479,2025-10-10,East,Furniture,Study Desk,Small Business,7,0.0,40868.74,4181.0
+RT-1480,2024-09-29,East,Home & Kitchen,Storage Box,Consumer,2,0.1,2275.58,306.9
+RT-1481,2024-05-08,West,Technology,Wireless Mouse,Consumer,8,0.1,17592.37,3988.89
+RT-1482,2024-04-04,West,Furniture,Study Desk,Consumer,8,0.25,28429.78,3273.48
+RT-1483,2025-07-29,South,Furniture,Study Desk,Consumer,8,0.05,38115.47,2671.62
+RT-1484,2025-03-21,North,Furniture,Office Chair,Consumer,3,0.0,14062.7,2281.55
+RT-1485,2025-07-30,West,Office Supplies,Printer Paper,Consumer,6,0.05,4990.29,933.03
+RT-1486,2025-09-12,West,Office Supplies,Gel Pens,Consumer,4,0.0,2321.48,606.29
+RT-1487,2025-12-22,East,Home & Kitchen,Storage Box,Corporate,7,0.15,6174.37,665.97
+RT-1488,2024-07-12,West,Office Supplies,Printer Paper,Consumer,1,0.15,672.63,72.19
+RT-1489,2024-05-15,South,Technology,USB Hub,Corporate,8,0.0,6038.33,918.79
+RT-1490,2024-05-01,South,Furniture,Study Desk,Corporate,8,0.1,23927.54,1975.97
+RT-1491,2025-04-06,East,Furniture,Study Desk,Small Business,4,0.15,7369.97,1108.59
+RT-1492,2025-07-19,West,Furniture,Side Table,Corporate,4,0.25,12594.54,2286.43
+RT-1493,2025-02-11,North,Technology,Laptop Stand,Consumer,8,0.0,8926.62,1512.87
+RT-1494,2025-11-12,West,Furniture,Bookshelf,Corporate,3,0.2,1986.7,201.42
+RT-1495,2025-06-06,West,Office Supplies,Notebook Set,Consumer,5,0.0,2777.8,623.82
+RT-1496,2024-12-13,North,Furniture,Side Table,Consumer,3,0.15,7442.74,1020.48
+RT-1497,2024-08-10,North,Technology,USB Hub,Consumer,4,0.0,16282.19,4339.63
+RT-1498,2024-04-18,East,Furniture,Office Chair,Consumer,1,0.2,3799.33,726.55
+RT-1499,2024-03-03,East,Technology,Wireless Mouse,Consumer,8,0.2,8919.99,2931.46
+RT-1500,2025-07-07,East,Home & Kitchen,Storage Box,Consumer,8,0.0,13048.1,1966.84
+RT-1501,2025-09-14,North,Furniture,Study Desk,Consumer,3,0.2,8980.11,544.21
+RT-1502,2024-06-11,West,Office Supplies,Notebook Set,Corporate,6,0.1,1386.8,380.0
+RT-1503,2024-05-08,South,Home & Kitchen,LED Lamp,Consumer,3,0.25,2637.59,337.51
+RT-1504,2025-12-26,West,Home & Kitchen,LED Lamp,Consumer,3,0.0,2785.62,294.49
+RT-1505,2025-10-21,West,Furniture,Study Desk,Consumer,4,0.1,22620.62,3828.9
+RT-1506,2026-05-24,North,Office Supplies,Notebook Set,Corporate,1,0.1,766.11,167.64
+RT-1507,2025-01-28,South,Furniture,Side Table,Corporate,1,0.1,5034.39,1294.06
+RT-1508,2025-03-22,South,Technology,USB Hub,Corporate,4,0.15,6520.23,1328.26
+RT-1509,2026-05-19,South,Technology,Laptop Stand,Corporate,8,0.0,33306.13,9205.8
+RT-1510,2025-01-15,West,Home & Kitchen,Coffee Mug,Consumer,8,0.1,2971.21,363.48
+RT-1511,2024-07-21,East,Home & Kitchen,Storage Box,Corporate,6,0.0,9372.89,1718.87
+RT-1512,2025-07-17,West,Technology,Webcam,Consumer,3,0.2,9734.98,2131.5
+RT-1513,2025-07-06,North,Technology,USB Hub,Consumer,6,0.1,3648.73,408.98
+RT-1514,2025-12-13,West,Technology,Wireless Mouse,Consumer,1,0.0,1821.74,338.92
+RT-1515,2025-01-23,West,Home & Kitchen,Water Bottle,Corporate,3,0.0,4305.37,995.49
+RT-1516,2025-07-21,West,Technology,Laptop Stand,Consumer,1,0.0,888.98,230.65
+RT-1517,2024-12-29,West,Technology,Laptop Stand,Consumer,4,0.05,5055.62,1076.7
+RT-1518,2025-11-20,West,Furniture,Study Desk,Consumer,8,0.25,38536.15,6654.98
+RT-1519,2024-07-30,West,Home & Kitchen,Coffee Mug,Consumer,7,0.05,6290.81,624.09
+RT-1520,2024-03-21,West,Furniture,Office Chair,Corporate,2,0.05,10224.45,1893.7
+RT-1521,2025-10-24,North,Home & Kitchen,LED Lamp,Corporate,1,0.15,325.31,5.25
+RT-1522,2024-11-01,West,Home & Kitchen,LED Lamp,Consumer,5,0.0,1668.74,355.58
+RT-1523,2025-10-30,North,Home & Kitchen,Coffee Mug,Consumer,4,0.0,3858.61,503.93
+RT-1524,2025-04-07,North,Office Supplies,Printer Paper,Consumer,5,0.0,2734.8,900.04
+RT-1525,2025-06-08,South,Home & Kitchen,LED Lamp,Consumer,4,0.1,3555.87,572.06
+RT-1526,2025-08-21,South,Home & Kitchen,LED Lamp,Corporate,6,0.2,6119.65,1207.57
+RT-1527,2025-05-03,North,Technology,Webcam,Consumer,5,0.0,14861.47,2010.3
+RT-1528,2025-08-08,West,Technology,Wireless Mouse,Small Business,2,0.15,6348.15,1018.43
+RT-1529,2024-12-08,North,Office Supplies,Notebook Set,Consumer,8,0.0,807.92,182.57
+RT-1530,2024-09-27,West,Office Supplies,Printer Paper,Consumer,8,0.0,637.49,155.43
+RT-1531,2025-08-19,West,Office Supplies,Desk Organizer,Corporate,2,0.2,183.75,59.68
+RT-1532,2024-02-18,South,Technology,Webcam,Small Business,1,0.0,2883.5,874.23
+RT-1533,2026-02-09,South,Office Supplies,Notebook Set,Consumer,3,0.15,1270.52,164.44
+RT-1534,2026-04-15,East,Technology,Webcam,Corporate,7,0.2,4280.43,1873.75
+RT-1535,2025-07-14,East,Technology,Bluetooth Speaker,Corporate,6,0.0,22608.99,3297.14
+RT-1536,2024-05-06,North,Technology,Laptop Stand,Consumer,5,0.2,2162.18,247.49
+RT-1537,2025-04-10,South,Furniture,Office Chair,Consumer,4,0.0,15136.7,372.67
+RT-1538,2024-01-30,West,Office Supplies,Printer Paper,Consumer,4,0.2,1130.83,348.69
+RT-1539,2024-11-08,West,Furniture,Study Desk,Consumer,8,0.0,36737.11,4904.82
+RT-1540,2025-08-11,West,Office Supplies,Printer Paper,Consumer,2,0.0,1206.64,350.75
+RT-1541,2025-07-05,South,Furniture,Bookshelf,Small Business,2,0.05,11316.57,36.91
+RT-1542,2024-12-09,South,Home & Kitchen,LED Lamp,Consumer,5,0.1,7660.58,1281.88
+RT-1543,2024-10-11,East,Technology,Bluetooth Speaker,Consumer,5,0.1,9642.57,2827.4
+RT-1544,2025-12-27,West,Office Supplies,Desk Organizer,Consumer,2,0.05,703.83,222.44
+RT-1545,2024-03-14,North,Furniture,Bookshelf,Corporate,5,0.05,24632.69,2120.74
+RT-1546,2024-04-22,North,Home & Kitchen,Storage Box,Consumer,2,0.1,3006.6,522.19
+RT-1547,2025-12-31,West,Technology,Laptop Stand,Corporate,8,0.0,9137.36,1108.91
+RT-1548,2025-04-16,West,Technology,USB Hub,Corporate,8,0.05,19138.33,5008.56
+RT-1549,2025-12-27,South,Office Supplies,Printer Paper,Corporate,3,0.2,267.42,50.97
+RT-1550,2024-01-15,East,Office Supplies,Desk Organizer,Consumer,8,0.2,4885.49,803.11
+RT-1551,2025-12-21,North,Technology,Bluetooth Speaker,Corporate,8,0.2,12940.21,3366.86
+RT-1552,2025-02-17,North,Technology,Laptop Stand,Corporate,2,0.0,4265.52,750.83
+RT-1553,2024-04-26,North,Office Supplies,Desk Organizer,Corporate,2,0.0,70.9,11.97
+RT-1554,2026-06-13,North,Office Supplies,Gel Pens,Small Business,2,0.1,626.3,179.85
+RT-1555,2026-01-13,North,Furniture,Office Chair,Consumer,4,0.25,16686.53,1863.71
+RT-1556,2026-04-05,South,Furniture,Office Chair,Consumer,5,0.05,21592.14,1039.54
+RT-1557,2025-01-22,South,Home & Kitchen,LED Lamp,Corporate,7,0.1,8673.99,1837.93
+RT-1558,2026-01-17,East,Technology,USB Hub,Consumer,6,0.2,2988.8,339.6
+RT-1559,2024-04-05,West,Furniture,Study Desk,Consumer,3,0.0,12361.51,3277.81
+RT-1560,2024-09-05,South,Home & Kitchen,Water Bottle,Consumer,3,0.0,4316.13,408.4
+RT-1561,2024-07-04,West,Technology,USB Hub,Small Business,7,0.05,27512.44,4721.29
+RT-1562,2024-04-29,South,Technology,Webcam,Consumer,6,0.0,16981.8,3240.68
+RT-1563,2025-11-16,South,Furniture,Office Chair,Consumer,5,0.0,15355.48,1391.5
+RT-1564,2025-12-22,East,Furniture,Bookshelf,Small Business,3,0.1,13947.53,1869.07
+RT-1565,2024-08-10,South,Technology,Bluetooth Speaker,Consumer,7,0.05,10046.39,2407.53
+RT-1566,2025-03-15,East,Home & Kitchen,Water Bottle,Consumer,8,0.25,4010.34,1038.73
+RT-1567,2025-06-08,North,Technology,Bluetooth Speaker,Consumer,8,0.05,15140.67,1824.31
+RT-1568,2024-07-16,West,Technology,Wireless Mouse,Corporate,3,0.0,3267.39,670.4
+RT-1569,2024-12-09,North,Technology,USB Hub,Corporate,4,0.0,7090.06,2398.19
+RT-1570,2025-06-13,North,Furniture,Side Table,Corporate,2,0.1,6228.71,1279.44
+RT-1571,2025-06-03,East,Technology,Laptop Stand,Consumer,5,0.1,3415.81,685.85
+RT-1572,2024-09-05,North,Furniture,Office Chair,Consumer,3,0.0,6225.27,1247.19
+RT-1573,2026-06-10,South,Office Supplies,Desk Organizer,Small Business,8,0.1,2582.13,715.76
+RT-1574,2025-04-23,West,Furniture,Office Chair,Consumer,2,0.25,8002.21,531.27
+RT-1575,2025-01-30,North,Furniture,Office Chair,Corporate,2,0.1,4286.84,358.87
+RT-1576,2026-03-21,South,Office Supplies,Printer Paper,Consumer,3,0.05,240.32,64.57
+RT-1577,2024-08-27,West,Technology,Bluetooth Speaker,Corporate,2,0.0,5119.44,855.46
+RT-1578,2024-12-07,West,Technology,Wireless Mouse,Corporate,1,0.0,3385.64,544.8
+RT-1579,2025-09-30,North,Office Supplies,Gel Pens,Consumer,1,0.2,174.83,22.3
+RT-1580,2024-12-26,North,Home & Kitchen,Storage Box,Corporate,6,0.0,4405.48,519.73
+RT-1581,2024-04-20,North,Furniture,Side Table,Consumer,1,0.1,3367.98,-102.34
+RT-1582,2024-07-27,North,Technology,Wireless Mouse,Small Business,6,0.0,10997.46,1968.2
+RT-1583,2026-04-01,South,Office Supplies,Gel Pens,Corporate,7,0.0,2004.6,509.09
+RT-1584,2024-03-23,West,Technology,Laptop Stand,Consumer,6,0.1,19481.42,5450.25
+RT-1585,2024-05-01,South,Technology,Laptop Stand,Consumer,5,0.0,6834.95,1221.62
+RT-1586,2025-04-19,East,Office Supplies,Printer Paper,Corporate,2,0.1,1378.66,290.71
+RT-1587,2026-03-14,West,Office Supplies,Notebook Set,Corporate,2,0.05,141.26,47.96
+RT-1588,2024-03-31,East,Technology,Wireless Mouse,Consumer,2,0.1,3897.31,1235.01
+RT-1589,2025-04-12,West,Office Supplies,Notebook Set,Corporate,4,0.0,2862.16,905.35
+RT-1590,2026-05-16,West,Furniture,Office Chair,Consumer,1,0.0,1624.23,-35.5
+RT-1591,2024-07-17,South,Home & Kitchen,Water Bottle,Corporate,2,0.0,343.19,71.03
+RT-1592,2024-02-21,East,Furniture,Bookshelf,Consumer,4,0.0,21290.59,349.33
+RT-1593,2025-10-13,South,Office Supplies,Printer Paper,Corporate,4,0.0,2163.61,815.22
+RT-1594,2024-04-23,West,Furniture,Study Desk,Consumer,5,0.15,16658.01,2467.73
+RT-1595,2025-06-25,West,Technology,Wireless Mouse,Consumer,1,0.0,1648.44,228.96
+RT-1596,2024-02-22,South,Technology,Bluetooth Speaker,Corporate,5,0.05,15015.96,3406.67
+RT-1597,2025-06-07,West,Home & Kitchen,Coffee Mug,Corporate,1,0.0,654.29,158.16
+RT-1598,2026-01-10,South,Furniture,Study Desk,Consumer,4,0.0,8810.91,965.12
+RT-1599,2025-12-09,North,Home & Kitchen,LED Lamp,Consumer,4,0.2,595.35,112.4
+RT-1600,2026-02-17,East,Home & Kitchen,Storage Box,Corporate,4,0.25,3599.8,850.2
+RT-1601,2025-01-25,North,Furniture,Study Desk,Corporate,1,0.0,3389.91,560.49
+RT-1602,2024-01-04,East,Technology,Wireless Mouse,Corporate,4,0.1,14137.22,2233.57
+RT-1603,2024-08-12,East,Home & Kitchen,Coffee Mug,Corporate,6,0.2,1206.12,413.28
+RT-1604,2025-02-19,West,Technology,Webcam,Consumer,1,0.0,1772.25,244.73
+RT-1605,2025-03-14,North,Furniture,Side Table,Corporate,1,0.0,961.06,125.48
+RT-1606,2026-03-14,East,Technology,Webcam,Consumer,7,0.05,3476.35,1014.43
+RT-1607,2024-02-03,West,Technology,Wireless Mouse,Small Business,7,0.1,15520.79,2652.52
+RT-1608,2024-11-07,South,Home & Kitchen,Coffee Mug,Consumer,3,0.1,4312.34,1145.4
+RT-1609,2024-02-12,North,Office Supplies,Notebook Set,Consumer,6,0.05,3062.29,605.12
+RT-1610,2024-11-06,West,Office Supplies,Gel Pens,Consumer,8,0.0,3166.24,1028.3
+RT-1611,2025-08-23,South,Home & Kitchen,Storage Box,Small Business,6,0.1,4681.97,1271.7
+RT-1612,2025-12-03,West,Furniture,Study Desk,Consumer,2,0.1,3965.18,326.24
+RT-1613,2025-04-14,East,Technology,Webcam,Consumer,3,0.2,9610.59,2368.49
+RT-1614,2025-08-09,West,Furniture,Study Desk,Small Business,4,0.0,11608.29,1538.02
+RT-1615,2024-10-03,West,Office Supplies,Desk Organizer,Small Business,7,0.0,4662.46,1140.22
+RT-1616,2024-12-29,West,Home & Kitchen,Storage Box,Small Business,5,0.15,5196.6,214.84
+RT-1617,2024-03-18,East,Home & Kitchen,Coffee Mug,Consumer,7,0.25,973.87,175.6
+RT-1618,2025-12-12,East,Office Supplies,Printer Paper,Consumer,5,0.1,1513.47,383.32
+RT-1619,2026-01-10,North,Home & Kitchen,Coffee Mug,Corporate,5,0.15,1991.54,419.45
+RT-1620,2025-08-08,West,Home & Kitchen,LED Lamp,Consumer,7,0.0,8749.72,1464.74
+RT-1621,2025-05-30,North,Furniture,Study Desk,Corporate,3,0.25,2683.45,358.49
+RT-1622,2025-12-01,North,Technology,Laptop Stand,Consumer,2,0.25,3044.77,567.46
+RT-1623,2024-12-09,North,Office Supplies,Printer Paper,Corporate,8,0.25,3379.78,926.27
+RT-1624,2024-04-06,South,Technology,Wireless Mouse,Small Business,2,0.15,5745.0,694.76
+RT-1625,2025-11-17,East,Office Supplies,Desk Organizer,Consumer,3,0.1,1337.19,359.97
+RT-1626,2025-04-11,East,Furniture,Office Chair,Corporate,3,0.0,17029.15,787.08
+RT-1627,2025-07-16,South,Home & Kitchen,Storage Box,Consumer,5,0.1,2622.15,335.26
+RT-1628,2024-08-15,East,Technology,Laptop Stand,Corporate,3,0.15,6400.61,1567.74
+RT-1629,2024-05-25,East,Furniture,Office Chair,Consumer,8,0.1,32864.94,5710.13
+RT-1630,2025-06-27,South,Furniture,Study Desk,Consumer,8,0.25,6795.18,685.76
+RT-1631,2025-03-05,West,Home & Kitchen,LED Lamp,Consumer,4,0.0,3632.27,738.53
+RT-1632,2025-04-25,South,Office Supplies,Gel Pens,Consumer,6,0.05,4011.44,930.71
+RT-1633,2024-02-17,South,Office Supplies,Notebook Set,Corporate,3,0.1,194.78,44.68
+RT-1634,2024-07-01,North,Office Supplies,Printer Paper,Consumer,2,0.2,1091.54,273.03
+RT-1635,2025-08-14,North,Office Supplies,Desk Organizer,Consumer,7,0.0,5313.85,1532.39
+RT-1636,2024-07-05,North,Office Supplies,Printer Paper,Consumer,8,0.25,2682.01,694.89
+RT-1637,2025-07-25,West,Furniture,Bookshelf,Consumer,1,0.0,3267.65,535.6
+RT-1638,2024-08-19,East,Furniture,Bookshelf,Corporate,7,0.2,22599.99,5455.63
+RT-1639,2025-04-14,East,Home & Kitchen,Water Bottle,Consumer,4,0.0,5266.78,1008.72
+RT-1640,2025-03-13,East,Home & Kitchen,Water Bottle,Corporate,8,0.05,11330.78,2037.0
+RT-1641,2024-01-10,North,Home & Kitchen,LED Lamp,Consumer,6,0.0,8966.76,1342.19
+RT-1642,2025-05-10,South,Home & Kitchen,Water Bottle,Consumer,2,0.0,1649.47,373.66
+RT-1643,2024-01-01,East,Office Supplies,Desk Organizer,Consumer,3,0.1,753.74,173.28
+RT-1644,2024-07-22,East,Home & Kitchen,Storage Box,Corporate,8,0.2,6516.62,35.25
+RT-1645,2024-02-04,East,Office Supplies,Printer Paper,Consumer,2,0.0,1487.27,351.91
+RT-1646,2024-08-09,West,Furniture,Side Table,Corporate,3,0.0,12628.61,2021.8
+RT-1647,2025-06-08,North,Office Supplies,Notebook Set,Consumer,3,0.15,1406.43,326.73
+RT-1648,2025-07-06,North,Technology,Webcam,Consumer,1,0.0,1033.31,126.99
+RT-1649,2025-04-15,East,Office Supplies,Printer Paper,Consumer,8,0.05,1041.83,304.81
+RT-1650,2024-10-16,North,Furniture,Study Desk,Corporate,8,0.0,5821.48,-238.79
+RT-1651,2024-08-15,South,Technology,Webcam,Corporate,7,0.0,7347.06,1067.48
+RT-1652,2024-12-20,North,Technology,USB Hub,Consumer,4,0.15,12619.45,3072.99
+RT-1653,2026-04-28,North,Technology,Bluetooth Speaker,Small Business,2,0.0,5391.72,1304.08
+RT-1654,2026-05-07,West,Office Supplies,Gel Pens,Small Business,4,0.1,1233.13,330.11
+RT-1655,2024-11-07,West,Home & Kitchen,LED Lamp,Consumer,2,0.15,782.02,143.57
+RT-1656,2025-12-31,South,Office Supplies,Desk Organizer,Corporate,1,0.1,700.1,289.55
+RT-1657,2026-06-05,West,Technology,Bluetooth Speaker,Small Business,1,0.1,1594.37,311.74
+RT-1658,2025-07-02,South,Furniture,Office Chair,Consumer,6,0.0,13634.01,3125.49
+RT-1659,2026-03-14,South,Technology,Laptop Stand,Consumer,8,0.15,7742.13,1581.08
+RT-1660,2025-10-17,West,Technology,Laptop Stand,Consumer,6,0.05,8822.64,1524.22
+RT-1661,2025-08-24,South,Office Supplies,Notebook Set,Small Business,5,0.0,4449.77,1329.08
+RT-1662,2024-10-02,South,Furniture,Study Desk,Corporate,6,0.0,19519.46,3098.91
+RT-1663,2025-08-20,North,Technology,Laptop Stand,Consumer,7,0.15,7927.22,951.0
+RT-1664,2025-05-01,West,Office Supplies,Notebook Set,Consumer,2,0.0,117.29,27.39
+RT-1665,2025-09-04,North,Furniture,Side Table,Consumer,3,0.0,11614.02,593.44
+RT-1666,2024-11-25,North,Office Supplies,Printer Paper,Small Business,1,0.2,281.98,33.34
+RT-1667,2025-04-26,South,Home & Kitchen,Coffee Mug,Consumer,4,0.0,7029.65,1357.27
+RT-1668,2025-03-07,North,Furniture,Bookshelf,Consumer,4,0.1,11151.21,1119.62
+RT-1669,2024-04-26,North,Office Supplies,Gel Pens,Consumer,6,0.1,4600.65,979.26
+RT-1670,2024-07-18,East,Home & Kitchen,Water Bottle,Corporate,4,0.1,2788.93,369.46
+RT-1671,2024-04-28,South,Office Supplies,Printer Paper,Consumer,3,0.0,799.03,236.4
+RT-1672,2025-09-16,North,Office Supplies,Printer Paper,Consumer,3,0.1,243.13,71.5
+RT-1673,2025-05-23,East,Furniture,Bookshelf,Consumer,2,0.15,5978.01,638.79
+RT-1674,2025-05-29,South,Office Supplies,Desk Organizer,Consumer,3,0.15,1374.72,429.46
+RT-1675,2024-02-25,North,Technology,USB Hub,Consumer,3,0.1,3302.68,636.24
+RT-1676,2026-02-27,North,Office Supplies,Gel Pens,Corporate,2,0.2,224.14,69.99
+RT-1677,2024-07-08,South,Furniture,Side Table,Corporate,5,0.05,4765.57,-6.64
+RT-1678,2024-04-30,West,Technology,Wireless Mouse,Corporate,7,0.25,5586.05,791.15
+RT-1679,2026-04-29,East,Technology,Bluetooth Speaker,Small Business,1,0.1,3221.38,679.5
+RT-1680,2025-06-19,South,Office Supplies,Printer Paper,Consumer,5,0.0,1464.62,611.59
+RT-1681,2024-12-28,West,Technology,USB Hub,Small Business,7,0.0,12529.13,2154.37
+RT-1682,2025-11-14,East,Home & Kitchen,LED Lamp,Consumer,6,0.1,3864.54,413.51
+RT-1683,2026-06-02,North,Office Supplies,Printer Paper,Consumer,7,0.05,1357.82,456.68
+RT-1684,2024-09-27,South,Technology,USB Hub,Consumer,5,0.1,3052.33,836.65
+RT-1685,2024-01-08,South,Office Supplies,Notebook Set,Consumer,8,0.0,5517.62,824.76
+RT-1686,2025-10-21,North,Furniture,Study Desk,Consumer,1,0.25,1022.66,164.09
+RT-1687,2025-02-16,East,Technology,Bluetooth Speaker,Consumer,7,0.05,21644.65,3593.33
+RT-1688,2024-03-12,East,Office Supplies,Gel Pens,Consumer,6,0.0,536.35,3.97
+RT-1689,2024-12-23,West,Office Supplies,Notebook Set,Consumer,3,0.25,1391.08,444.73
+RT-1690,2026-02-14,West,Office Supplies,Gel Pens,Consumer,7,0.15,5182.97,1396.71
+RT-1691,2025-05-23,West,Office Supplies,Desk Organizer,Consumer,6,0.0,4095.69,1052.92
+RT-1692,2024-09-01,North,Office Supplies,Gel Pens,Consumer,6,0.1,3814.69,876.77
+RT-1693,2026-02-15,South,Office Supplies,Printer Paper,Consumer,2,0.15,1269.49,396.69
+RT-1694,2026-01-27,South,Furniture,Office Chair,Consumer,5,0.0,9356.83,1327.06
+RT-1695,2025-06-11,North,Furniture,Study Desk,Consumer,2,0.05,9093.2,1708.47
+RT-1696,2024-07-04,South,Office Supplies,Desk Organizer,Corporate,3,0.2,1624.32,272.97
+RT-1697,2024-10-02,West,Home & Kitchen,Coffee Mug,Consumer,8,0.05,2300.5,491.44
+RT-1698,2024-12-01,East,Furniture,Bookshelf,Corporate,3,0.1,10799.99,2284.19
+RT-1699,2026-01-10,North,Technology,Bluetooth Speaker,Small Business,1,0.05,2083.47,205.13
+RT-1700,2024-06-11,North,Technology,Bluetooth Speaker,Consumer,5,0.0,4463.43,765.81
+RT-1701,2024-12-21,East,Home & Kitchen,LED Lamp,Consumer,2,0.25,1016.45,35.71
+RT-1702,2025-01-02,East,Office Supplies,Desk Organizer,Corporate,6,0.0,2096.02,661.61
+RT-1703,2024-10-16,East,Technology,USB Hub,Consumer,4,0.0,5334.36,921.72
+RT-1704,2025-08-20,North,Home & Kitchen,Storage Box,Consumer,1,0.15,951.11,252.7
+RT-1705,2026-06-09,West,Technology,Wireless Mouse,Consumer,3,0.15,6512.59,1200.06
+RT-1706,2024-01-28,North,Home & Kitchen,Coffee Mug,Consumer,4,0.1,2107.05,482.43
+RT-1707,2024-09-30,North,Office Supplies,Notebook Set,Small Business,7,0.0,2728.21,712.67
+RT-1708,2024-06-25,North,Technology,Wireless Mouse,Small Business,5,0.2,14272.7,4589.13
+RT-1709,2024-09-17,West,Office Supplies,Gel Pens,Small Business,6,0.0,1127.78,282.63
+RT-1710,2024-07-20,South,Office Supplies,Notebook Set,Consumer,1,0.0,47.47,9.73
+RT-1711,2025-07-22,North,Home & Kitchen,Storage Box,Corporate,1,0.05,1231.37,106.63
+RT-1712,2026-01-24,North,Technology,Wireless Mouse,Consumer,5,0.05,6657.24,881.88
+RT-1713,2024-08-19,West,Furniture,Study Desk,Consumer,4,0.05,18784.72,2942.56
+RT-1714,2026-01-13,East,Home & Kitchen,Coffee Mug,Corporate,5,0.1,3154.7,498.92
+RT-1715,2025-06-22,North,Technology,Wireless Mouse,Small Business,8,0.25,19363.97,3846.15
+RT-1716,2025-04-03,North,Office Supplies,Notebook Set,Consumer,5,0.0,1907.24,464.62
+RT-1717,2024-08-24,South,Home & Kitchen,Storage Box,Small Business,3,0.2,3846.87,384.62
+RT-1718,2024-09-01,South,Home & Kitchen,LED Lamp,Consumer,4,0.15,1063.38,187.66
+RT-1719,2025-12-08,West,Furniture,Side Table,Consumer,3,0.25,10740.53,2670.32
+RT-1720,2024-10-08,West,Technology,USB Hub,Corporate,4,0.0,11081.97,3155.75
+RT-1721,2025-04-05,West,Technology,Laptop Stand,Corporate,3,0.2,3968.64,791.81
+RT-1722,2026-01-21,South,Office Supplies,Notebook Set,Corporate,6,0.1,3454.76,639.19
+RT-1723,2026-04-14,South,Home & Kitchen,Water Bottle,Consumer,4,0.2,2729.04,404.32
+RT-1724,2026-01-09,North,Office Supplies,Notebook Set,Corporate,6,0.0,2447.72,598.06
+RT-1725,2024-06-01,South,Office Supplies,Gel Pens,Consumer,2,0.0,359.0,101.38
+RT-1726,2025-03-31,South,Furniture,Office Chair,Corporate,2,0.0,3344.52,481.69
+RT-1727,2025-06-08,East,Technology,USB Hub,Small Business,1,0.1,830.41,146.84
+RT-1728,2025-08-30,South,Office Supplies,Printer Paper,Small Business,8,0.05,4939.31,1708.36
+RT-1729,2025-06-04,East,Office Supplies,Notebook Set,Consumer,3,0.1,1656.53,443.94
+RT-1730,2024-02-22,East,Technology,USB Hub,Small Business,3,0.1,5844.66,2080.92
+RT-1731,2024-04-18,West,Office Supplies,Notebook Set,Consumer,1,0.0,841.4,254.14
+RT-1732,2024-05-30,East,Technology,Wireless Mouse,Corporate,7,0.1,19141.64,1928.86
+RT-1733,2025-12-15,South,Office Supplies,Desk Organizer,Corporate,3,0.1,252.84,79.47
+RT-1734,2026-04-04,West,Furniture,Bookshelf,Corporate,5,0.25,3344.08,-102.14
+RT-1735,2024-03-15,West,Home & Kitchen,LED Lamp,Consumer,8,0.05,11004.38,1851.66
+RT-1736,2025-04-10,South,Furniture,Study Desk,Corporate,3,0.05,14845.36,1202.14
+RT-1737,2024-08-01,South,Technology,Wireless Mouse,Consumer,7,0.0,14610.81,1388.27
+RT-1738,2025-03-31,North,Home & Kitchen,Storage Box,Consumer,6,0.0,8720.79,-26.58
+RT-1739,2025-05-10,North,Office Supplies,Notebook Set,Corporate,2,0.25,635.79,91.02
+RT-1740,2025-01-30,North,Furniture,Office Chair,Consumer,3,0.0,13790.87,679.77
+RT-1741,2026-02-14,West,Furniture,Office Chair,Corporate,3,0.2,11776.71,867.5
+RT-1742,2024-03-15,East,Furniture,Office Chair,Consumer,5,0.0,19119.86,-205.21
+RT-1743,2025-05-20,East,Technology,USB Hub,Consumer,6,0.2,19055.8,2309.74
+RT-1744,2024-08-06,West,Office Supplies,Gel Pens,Corporate,1,0.1,589.1,130.37
+RT-1745,2024-08-02,South,Furniture,Bookshelf,Consumer,2,0.0,3918.1,219.75
+RT-1746,2024-02-24,South,Office Supplies,Gel Pens,Small Business,7,0.0,4849.32,1652.0
+RT-1747,2025-07-13,East,Home & Kitchen,LED Lamp,Corporate,1,0.0,1332.71,182.24
+RT-1748,2025-09-01,East,Home & Kitchen,LED Lamp,Corporate,6,0.0,3665.65,564.1
+RT-1749,2025-03-30,West,Home & Kitchen,Coffee Mug,Corporate,8,0.0,5468.47,1023.32
+RT-1750,2026-02-08,West,Furniture,Office Chair,Consumer,3,0.15,2189.87,223.84
+RT-1751,2024-05-12,South,Office Supplies,Gel Pens,Consumer,2,0.1,1117.11,130.4
+RT-1752,2025-05-24,West,Office Supplies,Notebook Set,Consumer,8,0.0,2628.99,836.55
+RT-1753,2025-10-14,East,Technology,Laptop Stand,Consumer,3,0.1,10667.69,2210.19
+RT-1754,2025-09-30,East,Office Supplies,Notebook Set,Corporate,1,0.2,211.02,60.25
+RT-1755,2024-02-08,West,Technology,Wireless Mouse,Consumer,5,0.0,11538.17,2453.05
+RT-1756,2024-09-12,West,Technology,Laptop Stand,Consumer,3,0.0,5925.09,1443.56
+RT-1757,2025-10-03,North,Furniture,Side Table,Consumer,1,0.05,1336.41,46.35
+RT-1758,2026-04-01,North,Furniture,Side Table,Consumer,6,0.0,14327.5,1499.75
+RT-1759,2025-05-26,West,Technology,Wireless Mouse,Consumer,4,0.0,5556.37,796.85
+RT-1760,2026-06-16,North,Home & Kitchen,Coffee Mug,Consumer,3,0.0,3751.13,773.21
+RT-1761,2025-03-08,South,Home & Kitchen,Water Bottle,Corporate,2,0.15,2805.33,611.99
+RT-1762,2024-01-07,North,Office Supplies,Printer Paper,Consumer,3,0.05,251.33,71.97
+RT-1763,2024-03-12,East,Home & Kitchen,LED Lamp,Consumer,5,0.0,1217.96,113.02
+RT-1764,2025-07-01,South,Furniture,Side Table,Corporate,7,0.2,10878.03,1700.93
+RT-1765,2024-07-20,South,Office Supplies,Desk Organizer,Consumer,1,0.2,658.75,140.06
+RT-1766,2025-06-20,West,Technology,Wireless Mouse,Consumer,5,0.0,8648.83,2322.52
+RT-1767,2024-12-05,East,Office Supplies,Notebook Set,Corporate,3,0.1,989.84,208.78
+RT-1768,2025-07-19,South,Home & Kitchen,Storage Box,Consumer,2,0.15,2076.09,129.27
+RT-1769,2024-05-26,North,Home & Kitchen,Water Bottle,Consumer,6,0.2,8445.24,2318.41
+RT-1770,2024-02-21,West,Technology,Bluetooth Speaker,Corporate,4,0.0,16477.11,4395.04
+RT-1771,2024-02-02,North,Office Supplies,Gel Pens,Consumer,3,0.15,796.71,218.73
+RT-1772,2026-02-11,East,Technology,Wireless Mouse,Consumer,4,0.2,8678.83,962.27
+RT-1773,2024-01-19,South,Office Supplies,Printer Paper,Corporate,2,0.0,392.05,81.03
+RT-1774,2024-04-28,East,Furniture,Bookshelf,Corporate,4,0.0,18516.66,3376.4
+RT-1775,2024-04-14,South,Home & Kitchen,Coffee Mug,Consumer,6,0.25,4644.63,664.14
+RT-1776,2026-02-16,West,Furniture,Side Table,Consumer,6,0.0,26733.24,2839.22
+RT-1777,2026-02-15,South,Technology,USB Hub,Corporate,1,0.1,688.72,105.25
+RT-1778,2024-01-03,North,Furniture,Side Table,Corporate,2,0.1,7065.18,1414.09
+RT-1779,2026-02-18,East,Home & Kitchen,LED Lamp,Consumer,2,0.1,1477.14,372.75
+RT-1780,2024-12-01,West,Technology,Wireless Mouse,Consumer,4,0.0,13892.14,3898.34
+RT-1781,2024-12-11,West,Technology,USB Hub,Consumer,8,0.05,6457.56,754.29
+RT-1782,2025-09-14,East,Office Supplies,Desk Organizer,Corporate,6,0.0,2970.26,665.66
+RT-1783,2026-05-07,North,Office Supplies,Desk Organizer,Consumer,2,0.0,370.0,152.52
+RT-1784,2024-08-14,North,Technology,Wireless Mouse,Corporate,4,0.0,10601.33,1601.52
+RT-1785,2024-08-04,West,Home & Kitchen,Storage Box,Corporate,8,0.2,5669.4,1405.06
+RT-1786,2025-03-05,East,Furniture,Office Chair,Small Business,3,0.2,12602.91,1837.61
+RT-1787,2025-04-12,North,Office Supplies,Desk Organizer,Corporate,3,0.0,1669.13,460.13
+RT-1788,2024-05-26,East,Technology,Webcam,Consumer,7,0.1,17542.41,2232.41
+RT-1789,2025-07-12,South,Office Supplies,Printer Paper,Consumer,7,0.0,3725.51,665.07
+RT-1790,2024-06-30,North,Home & Kitchen,LED Lamp,Small Business,5,0.0,1383.29,243.12
+RT-1791,2026-04-28,West,Technology,Wireless Mouse,Consumer,7,0.1,8159.42,1162.58
+RT-1792,2024-07-26,South,Furniture,Bookshelf,Consumer,5,0.0,8853.5,440.37
+RT-1793,2025-05-18,West,Office Supplies,Notebook Set,Consumer,8,0.1,5842.42,1846.4
+RT-1794,2024-05-06,East,Office Supplies,Desk Organizer,Corporate,7,0.0,4826.89,1139.47
+RT-1795,2025-12-09,West,Office Supplies,Gel Pens,Small Business,7,0.0,864.63,151.52
+RT-1796,2024-09-09,South,Office Supplies,Notebook Set,Corporate,2,0.15,356.01,59.41
+RT-1797,2025-11-16,South,Home & Kitchen,Coffee Mug,Consumer,6,0.1,4031.18,581.83
+RT-1798,2025-12-14,West,Technology,Laptop Stand,Consumer,4,0.1,5313.72,929.0
+RT-1799,2025-11-18,East,Technology,Laptop Stand,Consumer,7,0.2,15492.88,3079.0
+RT-1800,2025-05-18,North,Home & Kitchen,LED Lamp,Corporate,1,0.0,1008.58,192.22
+RT-1801,2024-03-15,North,Office Supplies,Desk Organizer,Corporate,2,0.25,954.04,104.44
+RT-1802,2024-05-29,West,Furniture,Bookshelf,Corporate,3,0.15,3372.95,409.24
+RT-1803,2025-04-16,East,Technology,Laptop Stand,Consumer,8,0.05,22318.59,4293.56
+RT-1804,2026-04-04,East,Office Supplies,Notebook Set,Consumer,6,0.05,3093.18,745.12
+RT-1805,2025-05-23,West,Home & Kitchen,Storage Box,Corporate,1,0.1,1014.73,230.28
+RT-1806,2024-01-30,West,Furniture,Office Chair,Consumer,2,0.05,6768.67,1631.2
+RT-1807,2026-01-29,West,Furniture,Office Chair,Corporate,7,0.0,17214.4,2549.85
+RT-1808,2026-02-11,East,Technology,Laptop Stand,Consumer,7,0.15,23911.1,5832.15
+RT-1809,2025-09-15,South,Office Supplies,Printer Paper,Corporate,8,0.0,4807.56,1814.69
+RT-1810,2026-04-21,East,Office Supplies,Printer Paper,Corporate,5,0.1,3368.95,1370.31
+RT-1811,2024-11-24,East,Furniture,Bookshelf,Consumer,4,0.1,5170.62,761.63
+RT-1812,2024-09-18,South,Technology,USB Hub,Consumer,3,0.05,3060.37,654.65
+RT-1813,2026-04-30,South,Furniture,Side Table,Corporate,3,0.05,10587.98,882.08
+RT-1814,2026-03-29,North,Furniture,Bookshelf,Consumer,5,0.2,11336.17,746.78
+RT-1815,2026-03-25,South,Office Supplies,Printer Paper,Small Business,1,0.05,138.14,38.05
+RT-1816,2026-02-07,South,Home & Kitchen,Coffee Mug,Consumer,8,0.1,2161.54,491.42
+RT-1817,2024-09-27,West,Furniture,Study Desk,Consumer,5,0.0,21323.57,4998.4
+RT-1818,2026-04-15,South,Office Supplies,Gel Pens,Consumer,8,0.2,876.7,212.57
+RT-1819,2024-04-01,North,Office Supplies,Printer Paper,Consumer,5,0.25,906.0,274.32
+RT-1820,2025-07-03,North,Office Supplies,Notebook Set,Corporate,7,0.1,4359.17,613.45
+RT-1821,2025-02-19,North,Technology,Wireless Mouse,Corporate,5,0.1,15214.25,2946.14
+RT-1822,2024-12-17,East,Home & Kitchen,Storage Box,Consumer,4,0.0,4136.11,372.18
+RT-1823,2025-05-05,West,Technology,Bluetooth Speaker,Small Business,1,0.25,930.43,239.91
+RT-1824,2024-09-17,East,Home & Kitchen,Coffee Mug,Small Business,8,0.1,5924.48,1229.39
+RT-1825,2024-01-19,South,Furniture,Office Chair,Corporate,4,0.0,4202.17,420.5
+RT-1826,2024-07-01,North,Technology,Wireless Mouse,Consumer,4,0.15,6233.61,1575.46
+RT-1827,2025-01-03,East,Home & Kitchen,Coffee Mug,Consumer,6,0.1,9605.57,-553.63
+RT-1828,2026-01-25,East,Office Supplies,Printer Paper,Corporate,1,0.0,626.52,100.38
+RT-1829,2026-02-08,North,Office Supplies,Notebook Set,Consumer,7,0.05,1043.44,246.61
+RT-1830,2024-12-31,North,Office Supplies,Gel Pens,Corporate,6,0.0,1068.24,173.82
+RT-1831,2025-09-23,East,Furniture,Side Table,Small Business,3,0.0,15015.81,2202.62
+RT-1832,2026-01-21,South,Technology,Webcam,Consumer,8,0.0,10886.84,1638.65
+RT-1833,2024-01-06,East,Furniture,Bookshelf,Consumer,3,0.15,9394.73,1068.67
+RT-1834,2025-09-29,North,Home & Kitchen,Coffee Mug,Consumer,8,0.0,12747.41,2870.25
+RT-1835,2024-05-18,West,Office Supplies,Notebook Set,Consumer,8,0.1,2265.56,762.1
+RT-1836,2026-05-01,West,Home & Kitchen,Water Bottle,Corporate,8,0.25,1031.68,206.19
+RT-1837,2025-05-26,North,Office Supplies,Desk Organizer,Consumer,8,0.05,4740.9,666.34
+RT-1838,2024-07-08,East,Furniture,Side Table,Corporate,7,0.05,31281.31,2048.29
+RT-1839,2026-03-01,South,Office Supplies,Notebook Set,Consumer,1,0.0,508.26,190.17
+RT-1840,2024-10-08,North,Technology,Webcam,Consumer,8,0.15,3509.66,905.82
+RT-1841,2025-08-29,East,Office Supplies,Printer Paper,Corporate,5,0.0,3808.33,1129.82
+RT-1842,2025-05-20,West,Home & Kitchen,LED Lamp,Small Business,3,0.25,3756.2,727.47
+RT-1843,2024-04-17,North,Furniture,Office Chair,Consumer,3,0.0,18183.63,4640.52
+RT-1844,2024-03-20,South,Office Supplies,Gel Pens,Consumer,7,0.05,5329.81,1373.77
+RT-1845,2025-09-26,North,Home & Kitchen,LED Lamp,Consumer,5,0.15,4489.74,765.11
+RT-1846,2025-08-08,West,Furniture,Office Chair,Consumer,7,0.25,23363.86,4292.63
+RT-1847,2024-02-11,West,Furniture,Office Chair,Consumer,4,0.0,22652.31,3443.37
+RT-1848,2025-06-25,South,Furniture,Office Chair,Consumer,3,0.0,10084.44,1463.22
+RT-1849,2025-12-11,South,Office Supplies,Notebook Set,Corporate,5,0.0,2714.91,808.01
+RT-1850,2025-08-08,South,Furniture,Office Chair,Corporate,6,0.0,23315.35,439.65
